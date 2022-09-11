@@ -14,14 +14,14 @@ Networking, communities and opportunities
 
 7 days sprint ( Start date : 11 September)
 
-- [x] Meetup listing page (Homescreen)(11 September)
-- [x] Login page for users
-- [x] Meetups page on click of meetup on homepage.
-- [x] Meetup page functionality - Details about meetup, attendee names and click on register
-- [x] On click of register it should open a form to get user details (fetch user details)
-- [x] APIs added (data served using backend)
-- [x] MongoDB connected using mongoose
-- [x] Added Redux 
-- [x] Admin - meetup creation, edit , delete and update functionality added.
-- [x] search a meetup by "location,organiser" 
+- [ ] Meetup listing page (Homescreen)(11 September)
+- [ ] Login page for users
+- [ ] Meetups page on click of meetup on homepage.
+- [ ] Meetup page functionality - Details about meetup, attendee names and click on register
+- [ ] On click of register it should open a form to get user details (fetch user details)
+- [ ] APIs added (data served using backend)
+- [ ] MongoDB connected using mongoose
+- [ ] Added Redux 
+- [ ] Admin - meetup creation, edit , delete and update functionality added.
+- [ ] search a meetup by "location,organiser" 
 - [ ] Deploy app
