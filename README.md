@@ -25,3 +25,12 @@ Networking, communities and opportunities
 - [ ] Admin - meetup creation, edit , delete and update functionality added.
 - [ ] search a meetup by "location,organiser" 
 - [ ] Deploy app
+
+### Support
+
+Give ⭐️ if you like this project!
+
+### Author
+
+[Pujarini on Twitter](https://twitter.com/pujarini_codeit)
+[Pujarini on Github](https://github.com/Pujarini)
