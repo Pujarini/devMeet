@@ -6,7 +6,7 @@ Networking, communities and opportunities
 
 ## Tech Stack
 
-**Client:** React, Redux, Tailwind CSS , React router dom, multer
+**Client:** React, Redux, Tailwind CSS , React router dom, multer, framer motion
 
 **Server:** Node, Express, MongoDB
 
