@@ -6,7 +6,7 @@ Networking, communities and opportunities
 
 ## Tech Stack
 
-**Client:** React, Redux, Tailwind CSS , React router dom, multer, react-paypal-button-v2
+**Client:** React, Redux, Tailwind CSS , React router dom, multer
 
 **Server:** Node, Express, MongoDB
 
