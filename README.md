@@ -14,7 +14,7 @@ Networking, communities and opportunities
 
 7 days sprint ( Start date : 11 September)
 
-- [ ] Meetup listing page (Homescreen)(11 September)
+- [ ] Meetup listing page (Homescreen)(12 September)
 - [ ] Login page for users
 - [ ] Meetups page on click of meetup on homepage.
 - [ ] Meetup page functionality - Details about meetup, attendee names and click on register
@@ -25,6 +25,13 @@ Networking, communities and opportunities
 - [ ] Admin - meetup creation, edit , delete and update functionality added.
 - [ ] search a meetup by "location,organiser" 
 - [ ] Deploy app
+
+### Homepage
+
+<img width="1422" alt="Screen Shot 2022-09-12 at 4 21 05 PM" src="https://user-images.githubusercontent.com/34391629/189635954-aae74d12-016c-4e6e-99e3-19a6b74ee991.png">
+
+
+
 
 Design : https://www.behance.net/gallery/148807239/Job-Portal-Website-Design?tracking_source=search_projects%7Chome%20page%20landing
 
