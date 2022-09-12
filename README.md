@@ -26,9 +26,14 @@ Networking, communities and opportunities
 - [ ] search a meetup by "location,organiser" 
 - [ ] Deploy app
 
-### Homepage
+### Homepage hero sectiom
 
 <img width="1422" alt="Screen Shot 2022-09-12 at 4 21 05 PM" src="https://user-images.githubusercontent.com/34391629/189635954-aae74d12-016c-4e6e-99e3-19a6b74ee991.png">
+
+Browse by category 
+
+
+<img width="1426" alt="Screen Shot 2022-09-12 at 4 37 13 PM" src="https://user-images.githubusercontent.com/34391629/189638729-549e2eb3-fe3b-41f2-afaa-e270c47fc484.png">
 
 
 
