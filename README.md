@@ -15,7 +15,7 @@ Networking, communities and opportunities
 7 days sprint ( Start date : 11 September)
 
 - [ ] Meetup listing page (Homescreen)(12 September)
-- [ ] Login page for users (14 september wip)
+- [x] Login page for users (14 september wip)
 - [ ] Meetups page on click of meetup on homepage.
 - [ ] Meetup page functionality - Details about meetup, attendee names and click on register
 - [ ] On click of register it should open a form to get user details (fetch user details)
