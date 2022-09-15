@@ -16,7 +16,7 @@ Networking, communities and opportunities
 
 - [x] Meetup listing page (Homescreen)(12 September)
 - [x] Login page for users (14 september done)
-- [ ] Fetching data from express (15 September)
+- [x] Fetching data from express (15 September)(Added for meetups)
 - [ ] Fetching data from mongoDB (16 September)
 - [ ] Meetups page on click of meetup on homepage.
 - [ ] Meetup page functionality - Details about meetup, attendee names and click on register
