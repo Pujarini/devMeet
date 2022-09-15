@@ -1,0 +1,15 @@
+{
+  "name": "devmeet-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/Pujarini/devMeet.git",
+  "author": "Pujarini",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}

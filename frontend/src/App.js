@@ -16,7 +16,7 @@ function App() {
           <Route path="/createMeetup" element={<CreateMeetup />}></Route>
           <Route path="/meetups" element={<MeetupList />}></Route>
           <Route
-            path="/category/:category"
+            path="/meetups/:category"
             element={<MeetupByCategory />}
           ></Route>
         </Routes>
