@@ -11,6 +11,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "18 September 2022",
       },
       {
         _id: 2,
@@ -21,6 +22,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 December 2022",
       },
     ],
   },
@@ -36,6 +38,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 November 2022",
       },
       {
         _id: 4,
@@ -46,6 +49,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
@@ -61,6 +65,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 6,
@@ -71,6 +76,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
@@ -86,6 +92,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 8,
@@ -96,6 +103,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
@@ -111,6 +119,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 10,
@@ -121,6 +130,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 11,
@@ -131,6 +141,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 12,
@@ -141,6 +152,7 @@ export const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 October 2022",
       },
     ],
   },

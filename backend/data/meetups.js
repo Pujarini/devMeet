@@ -1,6 +1,6 @@
 const meetupList = [
   {
-    category: "webdev",
+    category: "Web Development",
     meetups: [
       {
         _id: 1,
@@ -11,6 +11,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "18 September 2022",
       },
       {
         _id: 2,
@@ -21,11 +22,12 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 December 2022",
       },
     ],
   },
   {
-    category: "mobileapps",
+    category: "Mobile Apps",
     meetups: [
       {
         _id: 3,
@@ -36,6 +38,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 November 2022",
       },
       {
         _id: 4,
@@ -46,11 +49,12 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
   {
-    category: "devops",
+    category: "Devops",
     meetups: [
       {
         _id: 5,
@@ -61,6 +65,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 6,
@@ -71,6 +76,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
@@ -86,6 +92,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 8,
@@ -96,11 +103,12 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
     ],
   },
   {
-    category: "python",
+    category: "Python",
     meetups: [
       {
         _id: 9,
@@ -111,6 +119,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 10,
@@ -121,6 +130,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 11,
@@ -131,6 +141,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 September 2022",
       },
       {
         _id: 12,
@@ -141,6 +152,7 @@ const meetupList = [
         participants: 10,
         description: "Get you upskilled kid",
         image: "/images/brand.svg",
+        date: "28 October 2022",
       },
     ],
   },
