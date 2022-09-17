@@ -41,6 +41,19 @@ Networking, communities and opportunities
 
 <img width="1430" alt="Screen Shot 2022-09-15 at 12 05 14 AM" src="https://user-images.githubusercontent.com/34391629/190235095-dc2d1893-c841-48a1-becf-7f03c5203a94.png">
 
+Flow of the website
+
+1. User lands on the landing page (P0) done UI
+2. It has a navbar with logo and login button (P0) done UI
+3. It will have a CTA with create meetup (P0) --- Create meetup will have limit of participants, pic , name, location, category, date and timing description. -- only the user who created the event can edit that event. (P0) (pending)
+
+4. Show categories of events (P0) done UI and fetched from backend
+5. From category go to meetup list and from meetup list when user clicks on attend he will be given a form to fill with email , name details (P0)
+6. On click of register for event the event will have increased events and the event will show under upcoming and have a tag called registered (P0)--- Add backend to attend meetup stuff
+7. If the event date has passed show disabled (P0)
+8. Sign in (Add users --- three types of access - admin (read and write all events) , user-access level (read and write events created by him , read access only user
+
+
 
 
 
