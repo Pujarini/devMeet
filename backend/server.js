@@ -15,7 +15,6 @@ app.get("/api/meetups/:meetup", (req, res) => {
   const { meetups } = meetupList.find(
     (item) => item.category === req.params.meetup
   );
-  console.log(meetups);
   res.json(meetups);
 });
 

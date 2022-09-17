@@ -11,7 +11,11 @@ module.exports = {
     "2xl": "1536px",
   },
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        hero: "url('./images/meetup.svg')",
+      },
+    },
   },
   colors: {
     green: "#55BC7D",
