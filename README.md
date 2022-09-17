@@ -49,6 +49,8 @@ Design : https://www.behance.net/gallery/148807239/Job-Portal-Website-Design?tra
 
 login page design : https://www.behance.net/gallery/146152011/Website-Log-in-Page?tracking_source=search_projects%7Cform%20design%20landing%20page
 
+Overall design : https://www.behance.net/gallery/151614743/Fynd-UIUX-Case-Study?tracking_source=search_projects%7Cevent%20management%20web
+
 ### Support
 
 Give ⭐️ if you like this project!
